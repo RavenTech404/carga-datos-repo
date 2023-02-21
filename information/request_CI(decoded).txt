@@ -1,0 +1,23 @@
+POST /AgendaLabBackend/servlet/com.agendalab.k2bfsg.login?8722e2ea52fd44f599d35d1534485d8e26f1fdeed76a237ec3cb670da2f608be,gx-no-cache=1673197961280 HTTP/1.1
+Host: servicios.coronavirus.gub.uy
+Cookie: GX_CLIENT_ID=b197ad07-4058-451b-b03c-79179c937e10; GX_SESSION_ID=LFUYFZBA9dupXhTGpeoFQfcsi9xGfK2j1IkFEl3sVtY=; JSESSIONID=9B0FF629E56076756F41485656D4BDD6; ROUTEID=.2
+Content-Length: 451
+Sec-Ch-Ua: "Not?A_Brand";v="8", "Chromium";v="108"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.125 Safari/537.36
+Content-Type: application/json
+Ajax_security_token: 9eef6fdd379d1bb78ca739d18186212c6683f8c21d605fcd2584a38e87a49273edd19d50df42b11e979f662139fac341
+X-Gxauth-Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJneC1leHAiOiIxNjc0NDk0MDU0ODMyIiwiZ3gtcGdtIjoiSzJCRlNHLkxPR0lOIn0.tmV-kWyjB-iHCsd42lBZ1oKZlRsa9v0WY5XvcHFgq7s
+Gxajaxrequest: 1
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://servicios.coronavirus.gub.uy
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://servicios.coronavirus.gub.uy/AgendaLabBackend/servlet/com.agendalab.k2bfsg.login
+Accept-Encoding: gzip, deflate
+Accept-Language: es-ES,es;q=0.9
+Connection: close
+
+{"MPage":false,"cmpCtx":"","parms":[false,false,{"s":"local","v":[["local","local"]]},"local","usuario",true,"    /  /   00:00:00",0,1,true,"","contraseña",1,"",false,false],"hsh":[{"hsh":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJneC12YWwiOiIxIiwiZ3gtZXhwIjoiMTY3NDQ5NDA1NDgzMiIsImd4LXBnbSI6IksyQkZTRy5MT0dJTiJ9.zYGgZjzrmniy0OTbMYoX-W1-9Pb6McSqn-u5uRmm2Po","row":""}],"objClass":"k2bfsg.login","pkgName":"com.agendalab","events":["ENTER"],"grids":{}}
